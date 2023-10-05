@@ -1,0 +1,22 @@
+     body {
+color: white;
+  background-image: url('img/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        
+        .countdown-container {
+            text-align: center;
+        }
+        
+        .countdown-item {
+            display: inline-block;
+            margin: 0 20px;
+            font-size: 2rem;
+        }
